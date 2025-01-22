@@ -75,7 +75,7 @@ Inside the `sincere stuff` folder you can find all source sprites of the texture
 ![Create spritesheet button](https://github.com/user-attachments/assets/f300f93a-3882-4ecf-9657-589e599fdbcb)
 ---
 
-### 5) Download your sheet and re-download the `.plist` with the buttons below (you can use the old `.plist` from your texture pack as well, I'll re-download it for demonstration.
+### 5) Download your sheet and re-download the `.plist` with the buttons below (you can use the old `.plist` from your texture pack as well, I'll re-download it for demonstration).
 
 ![Download buttons](https://github.com/user-attachments/assets/15fb76a2-59d7-435f-8f84-38811f971e70)
 ---
